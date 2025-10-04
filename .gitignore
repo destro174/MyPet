@@ -27,3 +27,7 @@ build.number
 dependency-reduced-pom.xml
 dl/
 src/main/resources/versionmatcher.csv
+/.gradle/
+/build/
+build/
+.gradle/
