@@ -32,8 +32,8 @@ import de.keyle.knbt.TagInt;
 import at.blvckbytes.raw_message.MessageColor;
 import at.blvckbytes.raw_message.RawMessage;
 import at.blvckbytes.raw_message.hover.ShowItemAction;
-import org.apache.commons.lang.Validate;
-import org.apache.commons.lang.WordUtils;
+import org.apache.commons.lang3.Validate;
+import org.apache.commons.lang3.text.WordUtils;
 
 import java.io.*;
 import java.lang.annotation.Annotation;

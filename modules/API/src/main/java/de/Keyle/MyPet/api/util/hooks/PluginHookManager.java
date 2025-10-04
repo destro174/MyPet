@@ -24,7 +24,7 @@ import com.google.common.collect.ArrayListMultimap;
 import de.Keyle.MyPet.MyPetApi;
 import de.Keyle.MyPet.api.util.configuration.ConfigurationYAML;
 import lombok.Getter;
-import org.apache.commons.lang.ClassUtils;
+import org.apache.commons.lang3.ClassUtils;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.FileConfiguration;

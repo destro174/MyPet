@@ -31,7 +31,7 @@
     <modules>
         <module>modules/API</module>
         <module>modules/Skills</module>
-        <module>modules/v1_21_R4</module>
+        <module>modules/NMS</module>
         <module>modules/GUI</module>
         <module>modules/Plugin</module>
         <module>modules/MyPet</module>

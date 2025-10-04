@@ -22,7 +22,7 @@ package de.Keyle.MyPet.api.util.service;
 
 import com.google.common.collect.ArrayListMultimap;
 import de.Keyle.MyPet.MyPetApi;
-import org.apache.commons.lang.ClassUtils;
+import org.apache.commons.lang3.ClassUtils;
 
 import java.util.*;
 
